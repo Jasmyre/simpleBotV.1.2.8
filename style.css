@@ -1,5 +1,6 @@
 html {
     scroll-behavior: smooth;
+    height: -webkit-fill-available;
 }
 
 * {
@@ -10,6 +11,7 @@ html {
 body {
     scroll-behavior: smooth;
     height: 1vh;
+    height: -webkit-fill-available;
     //background: linear-gradient(45deg, #888, #999);
 }
 
